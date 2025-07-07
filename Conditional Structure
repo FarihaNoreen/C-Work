@@ -1,0 +1,226 @@
+
+
+// #include<iostream>
+// using namespace std;
+// int main ()
+// {
+//      int a,b,c;
+//      float avg;
+//      cout<<"Enter three subjects";
+//      cin>>a>>b>>c;
+//      avg=(a+b+c)/3.0;
+//      if(avg>80)
+//      {
+//         cout<<"You are above standard"<<endl;
+//         cout<<"Admission granted"<<endl;
+
+//      }
+//       return 0;
+// }
+  
+
+
+// #include<iostream>
+// using namespace std;
+// int main ()
+// {
+//     int a;
+//     cout<<"Enter a number ::";
+//     cin>>a;
+//     if(a>0)
+//         cout<<"Number is positive ";
+//     if(a<0)
+//         cout<<"Number is negative";
+//     if(a==0)
+//        cout<<"Number is zero";
+    
+// }
+
+
+
+// #include<iostream>
+// using namespace std;
+// int main ()
+// {
+//     int w,a,s,i,f;
+//     int large,small;
+//     cout<<"Enter five numbers::";
+//     cin>>w>>a>>s>>i>>f;
+//     large=small=w;
+//     if(a>large)
+//        large=a;
+//      if(s>large)
+//      large=s;
+//     if(i>large)
+//     large=i;
+//     if(f>large)
+//     large=f;
+//     if(a<small)
+//     small=a;
+//     if(s<small)
+//     small=s;
+//     if(i<small)
+//     small=i;
+//     if(f<small)
+//     small=f;
+//     cout<<"The largest number is "<<large<<endl;
+//     cout<<"The smallest number is "<<small<<endl;
+//     return 0;       
+// }
+
+
+#include<iostream>
+using namespace std;
+int main()
+ {
+//     int a;
+//     cout<<"Enter a number::";
+//     cin>>a;
+//     if(a%2==0)
+//     cout<<"Even number is"<<a<<endl;
+//     if(a%2==1)
+//     cout<<"Odd number is"<<a<<endl;
+  
+
+
+
+    //   char w;
+    //   cout<<"Enter a character::";
+    //   cin>>w;
+    //   if(w>='A'&& w<='Z')
+    //    cout<<"your character is uppercase::"<<w<<endl;
+    //    if(w>='a'&& w<='z')
+    //      cout<<"Your letter is lowecase::"<<w<<endl;
+
+
+
+    //    int y;
+    //    cout<<"Enter a year::";
+    //    cin>>y;
+    //    if(y%4==0)
+    //    cout<<"Leap year"<<y<<endl;
+    //    if(y%4!=0)
+    //    cout<<"is not leap year"<<y<<endl;
+
+
+
+
+    // int f;
+    // cout<<"Enter a number::";
+    // cin>>f;
+    // if(f%2==0)
+    // cout<<"even number"<<f<<endl;
+    // else 
+    // cout<<"odd number"<<f<<endl;
+           
+
+
+
+    // char f;
+    // cout<<"Enter a character::";
+    // cin>>f;
+    // if(f>='a' && f<='z') 
+    // cout<<"Entered letter is lowercase"<<endl;
+    // else 
+    // cout<<"Entered letter is not a lowercase"<<endl;
+
+
+
+
+    // int temp;
+    // cout<<"Enter a temperature::";
+    // cin>>temp;
+    // if(temp>=30)
+    // cout<<"its hot"<<endl;
+    // else
+    // cout<<"its normal"<<endl;
+
+
+
+    // int num;
+    // cout<<"Enter a number::";
+    // cin>>num;
+    // if(num%5==0)
+    // cout<<"Divisible number "<<endl;
+    // else
+    // cout<<"Is not divisible number"<<endl;
+
+
+
+
+
+  
+    // Write a program that inputs salary and grade.
+    //  IT adds 50% bonus if the grade is greater than 15.
+    //   It adds 25% bonus if the grade is 15 or less and then display the total salary.
+
+
+
+    // int grade;
+    // float bonus,salary,totalsalary;
+    // cout<<"Enter salary::";
+    // cin>>salary;
+    // cout<<"Enter grade::";
+    // cin>>grade;
+    // if(grade>15)
+    // bonus=salary*50.0/100.0;
+    // else 
+    // bonus=salary*25.0/100;
+    // totalsalary=bonus+salary;
+    // cout<<"Total salary is::"<<totalsalary<<endl;
+
+
+
+     
+    
+    // char status;
+    // cout<<"Enter salesperson's status::";
+    // cin>>status;
+    // if(status=='s' || status=='S')
+    // cout<<"Senior person is paid Rs.400"<<endl;
+    // else if (status=='j' || status=='J')
+    // cout<<"Junior person is paid Rs.275"<<endl;
+    // else
+    // cout<<"Error message"<<endl;
+
+
+    // int a,b,c;
+    // cout<<"Enter three integers::";
+    // cin>>a>>b>>c;
+//  if(a!=0)
+    // {
+    //     if(b%a==0 && c%a==0)
+    //     cout<<"Is the common divisior of b and c"<<endl;
+    //     else 
+    //     cout<<"Is not common divisor of b and c"<<endl;
+         
+    // }
+    // else 
+    // cout<<"a 0 na huwy pai"<<endl;
+
+
+
+
+
+
+
+    // int a,b,c;
+    // cout<<"Enter three sides of triangle::";
+    // cin>>a>>b>>c;
+    // if(a==b && b==c && a==c)
+    // cout<<"Triangle is equilator"<<endl;
+    // else if(a==b || b==c || a==c)
+    // cout<<"Triangle is isosceles"<<endl;
+    // else 
+    // cout<<"triangle is scalene"<<endl;
+
+    
+
+
+
+     
+
+     return 0;
+}
+
+   
