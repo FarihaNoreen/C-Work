@@ -1,0 +1,204 @@
+/ #include<iostream>
+    // using namespace std;
+    // int main()
+    
+        // int code;
+        // cout<<"Enter a code::";
+        // cin>>code;
+        // if(code==1)
+        // cout<<"Westren Digital";
+        // else if(code==2)
+        // cout<<"3M Corporation";
+        // else if(code==3)
+        // cout<<"Maxwell Corporation";
+        // else if(code==4)
+        // cout<<"Sony Corporation";
+        // else if(code==5)
+        // cout<<"Verbatim Corporation";
+        // else
+        // cout<<"Jeeeeooooo";
+
+
+
+    // float area,side,base,height;
+    //     char ch;
+    //     cout<<"Enter a character::";
+    //     cin>>ch;
+    //     if(ch=='S')
+    //    { cout<<"Enter side::";
+    //     cin>>side;
+    //     area=side*side;
+    //     cout<<"Area of square is:"<<area<<endl;
+
+    //    }
+    //    else if(ch=='T')
+    //    {
+    //     cout<<"Enter base ::";
+    //     cin>>base;
+    //     cout<<"Enter height::";
+    //     cin>>height;
+    //     area=0.5*base*height;
+    //     cout<<"Area of traingle is :"<<area<<endl;
+    //    }
+    // else 
+    // cout<<"jeooooo";
+
+
+
+    // char code;
+    // cout<<"Enter code for movie category::";
+    // cin>>code;
+    // if(code=='A')
+    // cout<<"Adaanture movies";
+    // else if(code=='F')
+    // cout<<"Fmaily Movies";
+    // else if(code=='C')
+    // cout<<"Comedy movies";
+    // else if(code=='H')
+    // cout<<"Horror movies";
+    // else if(code=='S')  
+    // cout<<"Science fiction movies";
+    // else
+    // cout<<"Pai sai input dy kharoos jea nalaik na huwy ty";
+
+
+
+
+
+
+    // int value;
+    // char type;
+    // cout<<"Enter type of conversion::";
+    // cin>>type;
+    // if(type=='i') 
+    // {
+    // cout<<"Enter inch in cm::";
+    // cin>>value;
+    // value=2.54*value;
+    // cout<<"1 inch has "<<value<<"cm"<<endl;
+    // }
+    //  else if(type=='g')
+    //  {
+    // cout<<"Enter gallons::";
+    // cin>>value;
+    // value=3.785*value;
+    // cout<<"1 gallon has "<<value<<"litters"<<endl;
+    //  }
+    // else if(type=='m') 
+    // {
+    // cout<<"Enter miles::";
+    // cin>>value;
+    // value=1.609*value;
+    // cout<<"1 miles has "<<value<<"kiometers"<<endl;
+    // }
+    // else if(type=='p')
+    // {
+    // cout<<"Enter pound";
+    // cin>>value;
+    // value=4536*value;
+    // cout<<"1 pound has "<<value<<"kilograms"<<endl;
+    // }
+    // else
+    // cout<<"jeoooooooo";
+
+
+
+
+
+    // int temp;
+    // cout<<"Enter a temperature::";
+    // cin>>temp;
+    // if(temp>35)
+    // cout<<"Hot day"<<endl;
+    // else if(temp>=25 && temp<=35)
+    // cout<<"Pleasent day"<<endl;
+    // else if(temp<25)
+    // cout<<"Cool day"<<endl;
+    // else
+    // cout<<"rom rom"<<endl;
+
+
+
+
+    // int a,b,c,sum=0;
+    // float avg;
+    // cout<<"Enter marks of three subjects::";
+    // cin>>a>>b>>c;
+    // sum=a+b+c;
+    // avg=(a+b+c)/3.0;
+    // cout<<"The sum of marks is "<<sum<<endl;
+    // cout<<"The average of marks is "<<avg<<endl;
+    // if(a>=40 && b>=40 && c>=40)
+    //     cout<<"Pass"<<endl;
+    // else
+    //     cout<<"Fail"<<endl;
+            
+    
+
+
+
+    // int marks; 
+    // float percentage;
+    // cout<<"Enter obtained marks::";
+    // cin>>marks;
+    // percentage=marks/1100.0*100.0;
+    // cout<<"Percantage is "<<percentage<<"%"<<endl;
+    // if(percentage>=80)
+    //    cout<<"A+ Grade"<<endl;
+    // else if(percentage>=70 && percentage<80)
+    //     cout<<"A Grade"<<endl;
+    // else if(percentage>=60 && percentage<70)
+    //     cout<<"B Grade"<<endl;
+    // else if(percentage>=50 && percentage<60)
+    //     cout<<"C Grade"<<endl;
+    // else if(percentage>40 && percentage<50)
+    //     cout<<"D Grade"<<endl;
+    // else if(percentage>=33 && percentage<40)
+    //    cout<<"E Grade"<<endl;
+    // else if(percentage<33)
+    //   cout<<"F Grade"<<endl;
+    // else 
+    //    cout<<"invalid"<<endl;                        
+
+
+
+
+
+
+    // int num;
+    // cout<<"Enter a number::";
+    // cin>>num;
+    // if(num%2==0 && num>0)
+    // cout<<"The number is positive even"<<endl;
+    // else if(num%2!=0 && num>0)
+    // cout<<"The number is positive odd"<<endl;
+    // else if(num%2==0 && num<0)
+    // cout<<"The number is negative even"<<endl;
+    // else if(num%2!=0 && num<0)
+    // cout<<"The number is negative odd"<<endl;
+    // else if(num==0)
+    // cout<<"The number is zero and even number"<<endl;
+    // else 
+    // cout<<"Invalid number"<<endl;
+
+    
+
+
+
+
+    // int a,b,c,x;
+    // float x1,x2;
+    // cout<<"Enter three co_officents::";
+    // cin>>a>>b>>c;
+    //    x =b*b-4*a*c;
+    // if(x>0)
+    // {
+    //   x1=(-b+sqrt(x))/(2*a);
+    //   x2=(-b-sqrt(x))/(2*a);
+    //  cout<<"Real solutions"<<endl;
+    // }
+    // else if(x<0)
+    //   cout<<"Not real solutions"<<endl;
+
+// return 0;
+//  }
